@@ -16,6 +16,3 @@ Q::
     }
 
 Esc::ExitApp
-
-
-made by calonerr
